@@ -71,6 +71,7 @@ footer {
     padding: 0;
     font-size: 24px;
     overflow: hidden; 
+    background-color: olive;
     text-align: center;
     border: black;
 }
