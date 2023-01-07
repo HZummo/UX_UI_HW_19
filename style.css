@@ -5,13 +5,13 @@ header {
 }
 
 main {
-    height: 450px;
+    height: 420px;
     width: 100%;
     background-color: white;
 }
 
 footer {
-    height: 150px;
+    height: 100px;
     width: 100%;
     background-color: olive;
 }
