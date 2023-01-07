@@ -76,5 +76,16 @@ footer {
 }
 
 .liNavFooter {
-    
+    display: inline-block;
+    padding: 10px 15px;
+}
+
+.liNavFooter a {
+    color: black;
+    text-decoration: none;
+}
+
+.liNavFooter a:hover {
+    background-color: white;
+    color: black;
 }
