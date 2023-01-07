@@ -14,7 +14,7 @@ footer {
     height: 150px;
     width: 100%;
     background-color: olive;
-    align: center;
+    box-align: center;
 }
 *,
 *::before,
