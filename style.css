@@ -79,7 +79,8 @@ footer {
 
 .liNavFooter {
     display: inline-block;
-    padding: 10px 15px;
+    font-size: 20px;
+    padding: 20px;
 }
 
 .liNavFooter a {
