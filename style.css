@@ -13,7 +13,7 @@ main {
 footer {
     height: 100px;
     width: 100%;
-    background-color: sienna;
+    background-color: olive;
 }
 *,
 *::before,
@@ -69,10 +69,10 @@ footer {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    font-size: 18px;
+    font-size: 24px;
     overflow: hidden; 
     background-color: olive;
-    text-align: center;
+    text-align: left;
     border: black;
 }
 
