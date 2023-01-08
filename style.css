@@ -61,6 +61,11 @@ footer {
     padding: 2px;
 }
 
+.imgClasss {
+    border: olive solid 6px;
+    padding: 2px;
+}
+
 .ulNavFooter {
     list-style-type: none;
     margin: 0;
