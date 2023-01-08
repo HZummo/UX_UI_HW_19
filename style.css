@@ -74,7 +74,7 @@ footer {
     overflow: hidden; 
     background-color: olive;
     text-align: center;
-    border: black;
+    border: black 3px;
 }
 
 .liNavFooter {
