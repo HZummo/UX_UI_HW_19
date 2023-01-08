@@ -1,7 +1,6 @@
 header {
     height: 50px;
     width: 100%;
-    background-color: black;
 }
 
 main {
@@ -13,7 +12,7 @@ main {
 footer {
     height: 100px;
     width: 100%;
-    background-color: olive;
+    background-color: white;
 }
 *,
 *::before,
@@ -57,13 +56,13 @@ footer {
 }
 
 .imgClass {
-    border: olive solid 6px;
+    border: black 6px;
     padding: 2px;
 }
 
 .images {
-    border: sienna 10px;
-    padding: 0px;
+    border: black 6px;
+    padding: 2px;
 }
 
 .ulNavFooter {
