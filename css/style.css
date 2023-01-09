@@ -1,6 +1,11 @@
+body {
+    margin: 0;
+  }
+
 header {
     height: 50px;
     width: 100%;
+    padding: 15px;
 }
 
 main {
@@ -13,6 +18,7 @@ footer {
     height: 100px;
     width: 100%;
     background-color: white;
+    padding: 5px;
 }
 *,
 *::before,
@@ -60,7 +66,7 @@ footer {
     padding: 2px;
 }
 
-.images {
+.img2 {
     border: black 10px;
     padding: 2px;
 }
