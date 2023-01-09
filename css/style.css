@@ -98,3 +98,24 @@ footer {
     background-color: white;
     color: black;
 }
+
+.heroImg {
+    background-color: #EBEBEB;
+    padding: 100px 15px;
+}
+
+.content {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #FFFFFF;
+    text-align: center;
+  }
+  
+  button {
+    padding: 15px;
+    background-color: #373738;
+    color: white;
+    font-size: 15px;
+    border-radius: 4px;
+  }
