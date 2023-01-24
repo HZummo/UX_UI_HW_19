@@ -31,7 +31,7 @@ footer {
 
 .liNavTop {
     display: inline-block;
-    padding: 15px 15px;
+    padding: 5px 15px;
 }
 
 .liNavTop a {
@@ -47,7 +47,7 @@ footer {
 .ulNavTop {
     list-style-type: none;
     margin: 0;
-    padding: 6px;
+    padding: 0;
     font-size: 24px;
     overflow: hidden;  
     background-color: olive;
