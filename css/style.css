@@ -29,10 +29,10 @@ footer {
     box-sizing: border-box;
 }
 
-.ulNavTop {
+.ulnavbar-nav {
     list-style-type: none;
     margin: 0;
-    padding: 40px;
+    padding: 0;
     font-size: 24px;
     overflow: hidden;  
     background-color: olive;
