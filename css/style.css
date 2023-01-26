@@ -29,17 +29,17 @@ footer {
     box-sizing: border-box;
 }
 
-.liNavTop {
+.navbar navbar-expand-lg navbar-light bg-light {
     display: inline-block;
     padding: 5px 15px;
 }
 
-.liNavTop a {
+.navbar navbar-expand-lg navbar-light bg-light a {
     color: black;
     text-decoration: none;
 }
 
-.liNavTop a:hover {
+.navbar navbar-expand-lg navbar-light bg-light a:hover {
     background-color: white;
     color: black;
 }
