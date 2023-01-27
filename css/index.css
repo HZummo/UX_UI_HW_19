@@ -19,7 +19,7 @@ h1, h2, h3 , h4, h5, h6 {
   }
   .navbar-nav {
     margin-left: auto;
-    margin-right: 0 !important;
+    margin-right: 50% !important;
   }
   .navbar-brand img {
     padding-right: 15px;
