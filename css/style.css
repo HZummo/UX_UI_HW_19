@@ -49,13 +49,13 @@ footer {
 
 .imgClass {
     border: black 10px;
-    padding: 2px;
+    padding: 20px;
 }
 
 .img2 {
     border: black 10px;
-    padding: 2px;
-    height: 100%
+    padding: 20px;
+    height: auto
 }
 
 .ulNavFooter {
