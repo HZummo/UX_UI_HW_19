@@ -46,12 +46,12 @@ h1, h2, h3 , h4, h5, h6 {
     color: white !important;
   }
   .navCTA {
-    font-size: 15px;
+    font-size: 30px;
   }
   
   /* Jumbotron  */
   .jumbotron {
-    background-image: url(../images/rockOn_dark.jpg);
+    background-image: url(https://);
     background-size: cover;
     background-repeat: no-repeat;
     height: calc(100vh - 25px);
